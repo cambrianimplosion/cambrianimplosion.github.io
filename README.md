@@ -1,1 +1,1 @@
-repo for mossbeast's mossblog
+repo for cambrian implosion.github.io
