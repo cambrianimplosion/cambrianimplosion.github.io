@@ -1,6 +1,6 @@
 /* this is basically everything on the page incl. headers, even though it says body */
 body {
-	background: white;
+	background: burlywood;
 	color: black;
 }
 /* anything in the navigation bar gets class nav */
