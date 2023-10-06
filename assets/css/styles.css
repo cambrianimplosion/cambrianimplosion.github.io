@@ -30,12 +30,12 @@ body {
 .title {
 	text-transform: lowercase;
 	font-family: sans-serif;
-	color: dark-purple;
+	color: green;
 }
 
 .body {
 	display: block;
-	background: lightgreen;
+	background: green;
 	box-shadow: 3px 3px 3px gray;
 	color: white;
 	font-family: sans-serif;
@@ -55,7 +55,7 @@ body {
 		color: lime;
 	}
 	a:hover {
-		color: seagreen;
+		color: green;
 	}
 	font-size: 1.3em;
 }
