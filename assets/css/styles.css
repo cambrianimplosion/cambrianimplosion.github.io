@@ -15,7 +15,7 @@ body {
 	border-radius: 1em;
 	font-size: 1em;
 	margin-bottom: 4em;
-	box-shadow: 3px 3px 3px lime;
+	box-shadow: 3px 3px 3px gray;
 	text-decoration: none;
 	}
 
@@ -30,7 +30,7 @@ body {
 .title {
 	text-transform: lowercase;
 	font-family: sans-serif;
-	color: lime;
+	color: dark-purple;
 }
 
 .body {
