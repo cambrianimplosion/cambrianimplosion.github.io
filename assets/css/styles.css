@@ -35,8 +35,8 @@ body {
 
 .body {
 	display: block;
-	background: lightseagreen;
-	box-shadow: 3px 3px 3px lime;
+	background: light-green;
+	box-shadow: 3px 3px 3px gray;
 	color: white;
 	font-family: sans-serif;
 	padding: 2em;
