@@ -7,7 +7,7 @@ body {
 
 .nav {
 	font-family: sans-serif;
-	background: white;
+	background: olivedrab;
 	color: black;
 	display: inline;
 	margin: .5em;
@@ -52,7 +52,7 @@ body {
 .tags {
 	color: black;
 	a:visited {
-		color: lime;
+		color: green;
 	}
 	a:hover {
 		color: green;
