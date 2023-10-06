@@ -45,17 +45,17 @@ body {
 
 .bloo {
 	color: black;
-	background: green;
+	background: cadetblue;
 	padding: .5em;
 }
 
 .tags {
 	color: black;
 	a:visited {
-		color: green;
+		color: darksalmon;
 	}
 	a:hover {
-		color: green;
+		color: darkslategray;
 	}
 	font-size: 1.3em;
 }
