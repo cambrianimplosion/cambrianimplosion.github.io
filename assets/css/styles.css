@@ -1,13 +1,13 @@
 /* this is basically everything on the page incl. headers, even though it says body */
 body {
-	background: burlywood;
+	background: whitesmoke;
 	color: black;
 }
 /* anything in the navigation bar gets class nav */
 
 .nav {
 	font-family: sans-serif;
-	background: olivedrab;
+	background: darkcyan;
 	color: black;
 	display: inline;
 	margin: .5em;
@@ -30,12 +30,12 @@ body {
 .title {
 	text-transform: lowercase;
 	font-family: sans-serif;
-	color: darksalmon;
+	color: olivedrab;
 }
 
 .body {
 	display: block;
-	background: olivedrab;
+	background: darkcyan;
 	box-shadow: 3px 3px 3px gray;
 	color: white;
 	font-family: sans-serif;
@@ -52,7 +52,7 @@ body {
 .tags {
 	color: black;
 	a:visited {
-		color: olivedrab;
+		color: darkcyan;
 	}
 	a:hover {
 		color: darkslategray;
